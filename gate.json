@@ -1,7 +1,7 @@
 {
     "xiaoxing236": {
         "url": "https://www.jiliasia.com/?pid=xr124",
-        "isToPage": false
+        "isToPage": true
     },
     "xiaoxing237": {
         "url": "https://www.jiliasia.com/?pid=taishan",
@@ -25,7 +25,7 @@
     },
     "xiaoxing526": {
         "url": "https://www.jiliasia.com/?pid=taishan",
-        "isToPage": false
+        "isToPage": true
     },
     "xiaoxing527": {
         "url": "https://www.jiliasia.com/?pid=xr131",
@@ -33,10 +33,10 @@
     },
     "xiaoxing528": {
        "url": "https://www.jiliasia.com/?pid=taishan",
-        "isToPage": false
+        "isToPage": true
     },
     "xiaoxing529": {
         "url": "https://www.jiliasia.com/?pid=taishan",
-        "isToPage": false
+        "isToPage": true
     }
 }
